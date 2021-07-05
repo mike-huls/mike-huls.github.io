@@ -4,8 +4,7 @@ I always challenge myself to learn and explore, both in programming as well in t
 <br>
 Check out my medium profile for all of my programming articles.  
 Like what I'm doing?  
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mikehuls)
-
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mikehuls) 
 <br>
 ## Connect with me
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://mikehuls.medium.com/)
